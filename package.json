@@ -2,6 +2,8 @@
   "name": "redux-basic",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/jacobi85/jbw_ReduxTimerDemo",
+  "demo": "http://jbwreduxtimerdemo.surge.sh",
   "dependencies": {
     "prop-types": "^15.5.10",
     "react": "^15.5.4",
